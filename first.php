@@ -88,6 +88,13 @@ include_once("header.php")
 <section>
   <div class="container-fluid my-5">
 
+
+
+  <div class=" text-center heading-section ftco-animate">
+          	<span class="subheading">Services</span>
+            <h2 class="mb-3">Our Latest Services</h2>
+          </div>
+        </div>
     <div class="row">
 
     <div class="owl-carousel owl-theme">
