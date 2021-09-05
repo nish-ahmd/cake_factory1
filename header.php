@@ -29,9 +29,13 @@
   <body>
 
 
-  <nav class="navbar sticky-top  navbar-expand-lg navbar-light bg-light">
+
+  <nav class="navbar sticky-top bg-transparent navbar-expand-lg navbar-light bg-light" style="background-image: url('images/navbg.png'); background-repeat: no-repeat; background-size: 100% 220%;">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">Navbar</a>
+  <div class="w-100">
+                    <img src="images/pngwing.com (11).png" class="ms-4" width="60" alt="Logo">
+                </div>
+  
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
