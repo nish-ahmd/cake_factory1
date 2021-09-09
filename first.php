@@ -20,13 +20,13 @@ include_once("header.php")
     </div>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="images/obv1J.png" class="d-block w-100" alt="...">
+        <img src="images/234-2343121_cakes-christmas-cake-wallpaper-hd.jpg" class="d-block w-100" alt="...">
       </div>
       <div class="carousel-item">
-        <img src="images/obv1J.png" class="d-block w-100" alt="...">
+        <img src="images/photo-1483908514687-d25c79c15df0.jpg" class="d-block w-100" alt="...">
       </div>
       <div class="carousel-item">
-        <img src="images/obv1J.png" class="d-block w-100" alt="...">
+        <img src="images/photo-1574085733277-851d9d856a3a.jpg" class="d-block w-100" alt="...">
       </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -103,7 +103,7 @@ include_once("header.php")
 
     <div class="card">
 
-<img src="images/bg.jpg" class="card-img-top">
+<img src="images/david-holifield-kPxsqUGneXQ-unsplash.jpg" class="card-img-top">
 
 <duv class="class-body">
 
@@ -116,7 +116,7 @@ wdqwd
 
 <div class="card">
 
-<img src="images/bg.jpg" class="card-img-top">
+<img src="images/david-holifield-kPxsqUGneXQ-unsplash.jpg" class="card-img-top">
 
 <duv class="class-body">
 
@@ -129,7 +129,7 @@ wdqwd
 
 <div class="card">
 
-<img src="images/bg.jpg" class="card-img-top">
+<img src="images/david-holifield-kPxsqUGneXQ-unsplash.jpg" class="card-img-top">
 
 <duv class="class-body">
 
@@ -142,7 +142,7 @@ wdqwd
 
 <div class="card">
 
-<img src="images/bg.jpg" class="card-img-top">
+<img src="images/david-holifield-kPxsqUGneXQ-unsplash.jpg" class="card-img-top">
 
 <duv class="class-body">
 
@@ -154,7 +154,7 @@ wdqwd
 
 <div class="card">
 
-<img src="images/bg.jpg" class="card-img-top">
+<img src="images/david-holifield-kPxsqUGneXQ-unsplash.jpg" class="card-img-top">
 
 <duv class="class-body">
 
@@ -166,7 +166,7 @@ wdqwd
 
     <div class="card">
 
-<img src="images/bg.jpg" class="card-img-top">
+<img src="images/david-holifield-kPxsqUGneXQ-unsplash.jpg" class="card-img-top">
 
 <duv class="class-body">
 
