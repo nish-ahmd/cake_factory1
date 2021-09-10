@@ -51,9 +51,9 @@
   hello this is not to make any changes
 </nav> -->
 
-<nav class="navbar sticky-top bg-transparent navbar-expand-lg navbar-light bg-light" style="background-image: url('images/navbg.png'); background-repeat: no-repeat; background-size: 100% 100%;">
+<nav class="navbar sticky-top bg-transparent navbar-expand-lg navbar-light bg-light" style="background-image: url('images/navbg.png'); background-repeat: no-repeat; background-size: 100% 120%;">
   
-  <a class="navbar-brand" href="#"><img src="images/logo.png" class="ms-4" width="120" alt="Logo"></a>
+  <a class="navbar-brand" href="#"><img src="images/logo (2).png" class="ms-4" height="50" alt="Logo"></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
